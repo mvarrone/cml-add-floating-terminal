@@ -61,6 +61,8 @@ Web browsers:
 
 ## Licensing and Legal Notes
 
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
 > **Disclaimer:** This is a browser-side UI customization for CML and is provided for informational and personal use. It is not legal advice.
 
 This project is a client-side browser bookmarklet that changes how the CML console panel is displayed in the browser. It does not modify the CML server, backend, installation files, or any Cisco software on disk.
